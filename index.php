@@ -123,9 +123,8 @@ In egestas blandit felis id porttitor. Mauris vel nibh ex. Integer iaculis place
       <p>Alguna otra modificación en remoto</p>
     </div>
 
-
-    <div class="pricing-head">
-      <p>Modificación 4</p>
+    <div class="container">
+      <p>Repositorio local solo tienes que almacenar todos los cambios y commit-confirmar todo </p>
     </div>
 
   </main>
