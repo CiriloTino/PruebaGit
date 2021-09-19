@@ -128,7 +128,7 @@ In egestas blandit felis id porttitor. Mauris vel nibh ex. Integer iaculis place
     </div>
 
     <div class="container">
-      <p>Repositorio remoto:  </p>
+      <p>Repositorio remoto: novena actualización</p>
     </div>
 
   </main>
