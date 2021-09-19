@@ -120,9 +120,13 @@ In egestas blandit felis id porttitor. Mauris vel nibh ex. Integer iaculis place
 
 
     <div class="pricing-header p-3 pb-md-4 mx-auto text-left">
-      <p>Modificación 3</p>
+      <p>Alguna otra modificación en remoto</p>
     </div>
 
+
+    <div class="pricing-head">
+      <p>Modificación 4</p>
+    </div>
 
   </main>
 
